@@ -17,16 +17,16 @@ Este proyecto es una aplicación de gestión de tareas desarrollada en Next.js 1
    Accede a la aplicación en [http://localhost:3000](http://localhost:3000).
 
 ## Tecnologías Implementadas
-   Next.js: Framework de React para aplicaciones web.
-   React: Biblioteca de JavaScript para construir interfaces de usuario.
-   TypeScript: Lenguaje de programación que añade tipos estáticos opcionales a JavaScript.
-   Tailwind CSS: Framework de CSS para diseño rápido y estilización.
-   FullCalendar: Biblioteca para crear y gestionar calendarios en la aplicación.
-   MongoDB: Base de datos NoSQL utilizada para almacenar usuarios y tareas.
-   Mongoose: ODM para MongoDB, utilizado para interactuar con la base de datos.
-   Node.js: Entorno de ejecución de JavaScript en el backend.
-   API REST: Se implementaron endpoints para la autenticación de usuarios y la gestión de tareas.
-   Auth0 Authentificator: Utilizado para la autenticación de usuarios.
+   - Next.js: Framework de React para aplicaciones web.
+   - React: Biblioteca de JavaScript para construir interfaces de usuario.
+   - TypeScript: Lenguaje de programación que añade tipos estáticos opcionales a JavaScript.
+   - Tailwind CSS: Framework de CSS para diseño rápido y estilización.
+   - FullCalendar: Biblioteca para crear y gestionar calendarios en la aplicación.
+   - MongoDB: Base de datos NoSQL utilizada para almacenar usuarios y tareas.
+   - Mongoose: ODM para MongoDB, utilizado para interactuar con la base de datos.
+   - Node.js: Entorno de ejecución de JavaScript en el backend.
+   - API REST: Se implementaron endpoints para la autenticación de usuarios y la gestión de tareas.
+   - Auth0 Authentificator: Utilizado para la autenticación de usuarios.
 
 ## Endpoints Disponibles
 
